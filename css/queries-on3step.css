@@ -145,7 +145,7 @@
   .goldpage i { display:block; font-size:24pt; margin:0 60px 0 60px;}
   #subheader, #subheader-commerce {
     color: #fefefe;
-    padding: 120px 0 30px 0;
+    padding: 0px 0 30px 0;
   }
   .commerce-step a{
     font-size: 13px;
@@ -192,6 +192,9 @@
 @media(max-width:414px) {
   section {
     padding: 90px 0 90px 0;
+  }
+    .section-1 {
+    padding: 0px 0 90px 0!important;
   }
   .navbar-default {
     border-bottom: 1px groove rgba(255, 255, 255, 0);
