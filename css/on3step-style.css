@@ -1176,7 +1176,54 @@ sup.subtour{
 #sform .form-group .input-group{
     width: 100%;
 }
-.frm-search {
+
+.ceo-bg {
+    width: 100%;
+	color: #fff;
+    background: url(../img/ceo-bg.jpg);
+    overflow-x: hidden;
+    background-size: cover;
+    background-position: center;
+}
+
+.big-heading2{
+	font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    color: #fff;
+    margin-top: 0px;
+    font-size: 26px;
+    text-align: center;
+        line-height: 47px;
+}
+
+.sub-big-heading2{
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    line-height: 30px;
+    color: #fff;
+    text-align: justify;
+    padding: 10px 60px;
+    margin-bottom: 30px; 
+    margin-top: 30px; 
+}
+
+
+@media only screen and (max-width: 767px) {
+
+    .sub-big-heading2 {
+        font-family: 'Poppins', sans-serif;
+        font-size: 16px;
+        line-height: 30px;
+        color: #fff;
+        text-align: center;
+        padding: 10px 10px;
+
+    }
+
+}
+
+
+.reviews {
     width: 100%;
 	color: #fff;
     background: url(../img/bg-search.jpg);
@@ -1184,6 +1231,7 @@ sup.subtour{
     background-size: cover;
     background-position: center;
 }
+
 .frm-clean{
     position: relative;
     width: 90%;
@@ -1311,7 +1359,7 @@ select.cust-select::-ms-expand {
 
 /* choose */
 .box-icon {
-    margin: 60px auto;
+    margin: 28px auto;
     display: flex;
     justify-content: center;
 }
@@ -3836,3 +3884,63 @@ a:hover,
     padding: 0;
     overflow: hidden;
 }
+
+.seperator {
+    background: #fff!important;
+}
+.seperator {
+    background: #d3b07e;
+    width: 50px;
+    height: 2px;
+    margin: 0 auto 35px;
+    display: table;
+}
+
+.brand-logos{
+    background-position: top;
+    background-image: url(https://modernshade.net/wp-content/uploads/2018/07/our-brands-dark-background2.jpg);
+    background-size: cover!important;
+    position: relative;
+}
+
+.brand-logos img{
+    padding: 16px;
+    border: 1px solid #ffffff;
+}
+
+.brand-logos img:hover{
+    opacity: 0.5;
+    -webkit-transition: opacity 0.5s ease-in-out;
+    -moz-transition: opacity 0.5s ease-in-out;
+    -ms-transition: opacity 0.5s ease-in-out;
+    -o-transition: opacity 0.5s ease-in-out;
+    transition: opacity 0.5s ease-in-out;
+}
+
+.mt-30 {
+    margin-top: 30px;
+}
+.mb-30 {
+    margin-bottom: 30px;
+}
+
+@media only screen and (max-width: 767px) {
+
+    .bouncing-logo {
+        bottom: 148px;
+    }
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
