@@ -202,9 +202,9 @@ button:hover {
     text-align: center;
     letter-spacing: 1px;
     color: #fff;
-    background: #fc9f1c;
+    background: #545454;;
     border-radius: 2px;
-    border: 3px solid #fc9f1c;
+    border: 3px solid #545454;;
     outline: none;
     text-shadow: none;
     margin-top: 17px;
@@ -265,7 +265,7 @@ section {
 }
 .devider-left {
     display: block;
-    border-top: 4px solid #ff9219;
+    border-top: 4px solid #000;
     width: 45px;
     margin:20px 0 30px 0;
 }
