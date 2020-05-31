@@ -110,7 +110,7 @@ a {
     transition: all 0.3s ease;
 }
 a:hover, a:active {
-    color: #78c7ea;
+    color: #b9b9b9;
     text-decoration: none;
     outline: 0;
     -moz-transition: all 0.3s ease;
@@ -553,7 +553,7 @@ section {
     cursor: pointer;
 }
 .social-icons-subnav a:hover, .social-icons-subnav a:hover span{
-    color: #78c7ea;
+    color: #b9b9b9;
     border-color: #eceff3;
     -webkit-transition: all .3s ease-in-out;
     -moz-transition: all .3s ease-in-out;
@@ -710,7 +710,7 @@ header.show {
     white-space: nowrap;
 }
 .white nav a.actived {
-    color: #78c7ea!important;
+    color: #b9b9b9!important;
 }
 .white nav ul ul {
     display: none;
@@ -2806,7 +2806,7 @@ address.cont-1 span a {
 #totop {
     width: 35px;
     height: 35px;
-    background: #78c7ea;
+    background: #b9b9b9;
     line-height: 35px;
     position: fixed;
     right: 10px;
