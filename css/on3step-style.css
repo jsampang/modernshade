@@ -1907,7 +1907,7 @@ ul#services-list {
     transition: all .3s ease-in-out;
 }
 #filter-porto li.filt-projects:hover, #filter-porto li.filt-projects-w:hover {
-    border: 1px solid #fc9f1c;
+    border: 1px solid #000;
     -webkit-transition: all .3s ease-in-out;
     -moz-transition: all .3s ease-in-out;
     transition: all .3s ease-in-out;
