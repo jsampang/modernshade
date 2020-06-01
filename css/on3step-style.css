@@ -2043,12 +2043,12 @@ ul#services-list {
     margin-right:5px;
 }
 .service-hotel .price{
-    font-family: 'Playfair Display', serif;
+
     width:111%;
     font-size:44pt;
     text-align:left;
     font-weight:600;
-    color:#fc9f1c;
+    color:#5d5d5d;
     margin-top:10px;
     margin-bottom:30px;
 }
