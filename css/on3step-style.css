@@ -3929,6 +3929,12 @@ a:hover,
     .bouncing-logo {
         bottom: 148px;
     }
+    .service-hotel .price {
+        font-size: 29pt;
+    }
+    aside .widget, .widget {
+        padding: 20px;
+    }
 
 }
 
