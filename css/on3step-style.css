@@ -3942,6 +3942,9 @@ a:hover,
   clear: both;
 }
 
+.terms p, h4 {
+    margin-bottom: 20px
+}
 
 
 
