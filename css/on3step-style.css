@@ -785,7 +785,8 @@ li>a:only-child:after {
     padding: 126px 0 31px 0;
     background: #222;
     background: url(../img/bg-subheader.jpg)top fixed;
-    background-size:cover;
+/*    background-size:cover;*/
+    background-attachment
 }
 #subheader-commerce {
   color: #fefefe;
